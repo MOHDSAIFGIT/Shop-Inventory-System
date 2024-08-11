@@ -41,3 +41,8 @@ This project is a backend system for managing inventory and sales for a small sh
 
 4. Start Server:
     npm start
+
+5. API Link:
+    https://shop-inventory-system.onrender.com/
+    
+6. Use Postman for test the API.
