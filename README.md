@@ -31,10 +31,13 @@ This project is a backend system for managing inventory and sales for a small sh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shop-inventory-system.git
+   git clone https://github.com/MOHDSAIFGIT/Shop-Inventory-System.git
 
 2. Navigate to the project directory:
     cd shop-inventory-system
 
 3. Install dependencies:
     npm install
+
+4. Start Server:
+    npm start
